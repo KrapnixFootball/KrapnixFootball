@@ -2,11 +2,11 @@
 
 [![Youtube](https://img.shields.io/badge/Youtube-KrapnixFootball-d70000?style=for-the-badge&logo=Youtube&)](https://youtube.com/)
 
-## I'm a Programmer/Developer and a Competitive Programmer
+## I'm a Programmer/Developer
 
 - 🌱 I’m mainly learning C++, Python, JavaScript
 - 🔭 I have many projects in mind!
-- 🥅 2020 Goals: Learn C++, Python and JavaScript to the best of my abilities!
+- 🥅 2021 Goals: Learn C++, Python and JavaScript to the best of my abilities!
 - ⚽ Hobbies: I love to play football!
 
 
