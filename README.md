@@ -4,9 +4,9 @@
 
 ## I'm a Programmer/Developer
 
-- 🌱 I’m mainly learning C++, Python, JavaScript
-- 🔭 I have many projects in mind!
-- 🥅 2021 Goals: Learn C++, Python and JavaScript to the best of my abilities!
+- 🌱 I’m mainly learning C++
+- 🔭 I have many projects in mind, aswell as startups!
+- 🥅 2022 Goals: Master C++, Learn Assembly, Learn Python, Learn SQL, and finally a bit of C
 - ⚽ Hobbies: I love to play football!
 
 
